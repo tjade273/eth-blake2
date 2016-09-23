@@ -1,3 +1,5 @@
+## Note: This project has been migrated to https://github.com/ConsenSys/Project-Alchemy. Please check there for the latest developments.
+
 # eth-blake2
 An implementation of the BLAKE2 hash function for the Ethereum blockchain
 
